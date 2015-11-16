@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options">
+        <item>Manual Input</item>
+        <item>New User</item>
+        <item>Map View</item>
+        <item>Global Comparison</item>
+        <item>Chile,cl</item>
+        <item>China,cn</item>
+        <item>Croatia,hr</item>
+    </string-array>
+</resources>
